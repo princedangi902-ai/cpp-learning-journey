@@ -11,12 +11,14 @@ The goal of this repository is to strengthen my programming logic and gain a dee
 The programs are organized logically to reflect my learning path:
 
 - **Basics:** Syntax, Variables, Data Types, and Operators.
-- **Conditionals and loops:** If-else statements, Loops (for, while, do-while), and Switch cases.
+- **Conditionals** If-else statements, and Switch cases.
+- **loops:** for loop, while loop, do-while loop.
+- **patterns:** triangle, square, rectangle.
 - **Functions:** Modular programming and code reusability.
 - **Arrays & Pointers:** Memory management and data manipulation.
 - **Intermediate Logic:** Algorithms and problem-solving exercises.
 
-## 🛠 Tech Stack
+## 🛠 working with
 
 - **Language:** C++
 - **Compiler:** MinGW
@@ -26,6 +28,7 @@ The programs are organized logically to reflect my learning path:
 
 - [x] Basics (Input/Output, Data types)
 - [x] Conditionals and loops
+- [ ] pattern printing
 - [ ] Functions (Current Focus)
 - [ ] Arrays & Strings
 - [ ] Pointers & References
