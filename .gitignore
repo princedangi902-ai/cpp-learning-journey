@@ -1,2 +1,14 @@
 *.exe
 .vs
+.idea
+*.dll
+*.pdb
+*.obj
+*.log
+*.cache
+*.tmp
+*.bak
+*.swp
+*.suo
+*.user
+*.db  
