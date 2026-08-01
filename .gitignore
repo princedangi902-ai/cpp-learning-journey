@@ -12,3 +12,6 @@
 *.suo
 *.user
 *.db  
+*.o
+*.obj
+
