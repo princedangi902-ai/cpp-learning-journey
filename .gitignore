@@ -1,3 +1,29 @@
+# Ignore compiled binaries and build artifacts
+# Common GCC outputs
+a.out
+*.out
+*.exe
+*.elf
+
+# Place project-specific compiled binaries in bin/ and ignore the folder
+bin/
+build/
+
+# Example: ignore this repo's compiled factorial executable
+factorial
+
+
+# Object and dependency files
+*.o
+*.d
+
+# Core dumps
+core
+
+# Editor/temp files
+*~
+*.swp
+.vscode/
+.idea/
 *.bin
-*
-!*.*
+* /home/prince/codes/cpp-learning-journey/functions
